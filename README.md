@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TiammatMX
-- 👀 I’m interested in photography, cats, PHP, Delphi, Android
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on PHP, Delphi, Android
+- 👀 I’m interested in photography, cats, Java, Delphi, Android
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Delphi, Java, Android
 - 📫 How to reach me: tiammatsoftware@gmail.com
 
 <!---
